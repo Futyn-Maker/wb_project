@@ -1,0 +1,8 @@
+body {
+    padding-top: 20px;
+}
+
+#answer {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
